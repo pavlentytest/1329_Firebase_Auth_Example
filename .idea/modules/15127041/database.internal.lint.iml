@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":internal:lint" external.linked.project.path="$MODULE_DIR$/../../../../internal/lint" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="database.internal" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":internal:lint" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/../../../../internal/lint/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../internal/lint/build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/27.1.2/c81f23760044709f8f1dc6e54bf33c88e8f9114f/lint-api-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.lint/lint-model/27.1.2/46f49b331bd25833c0d005089bfc7e2eeb5b85cc/lint-model-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/27.1.2/be1200a2283b876d081689fed1cbebcaf1970f0f/manifest-merger-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/sdk-common/27.1.2/b3aeea1c4d2a329ceb56582be26e33b679d5ea60/sdk-common-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/27.1.2/2c0ca03a8992e8730d150a853bc2a86502a6c1db/shared-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/sdklib/27.1.2/681a16ea34f8113ba1e491b2abfcf612f8840ee3/sdklib-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/repository/27.1.2/957831c43dfe01bcdf756d81500afed8f608c627/repository-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.72/916d54b9eb6442b615e6f1488978f551c0674720/kotlin-stdlib-jdk8-1.3.72.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.4.31/84ce8e85f6e84270b2b501d44e9f0ba6ff64fa71/kotlin-stdlib-jdk7-1.4.31.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/4.1.2/88541c05768d98c4661d84829da7417be1eaee14/builder-test-api-4.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/27.1.2/29aaa89feccafc6012c8b7f91548ec6866a55e52/ddmlib-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/27.1.2/c15c507501f3cd4f7ea079c102746f7f62dac039/layoutlib-api-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/dvlib/27.1.2/6c1afd898edc923c409ba66eb6d32a1cf0595907/dvlib-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/common/27.1.2/9cc41e6644c8d37143373de102f21194416d3872/common-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.jimfs/jimfs/1.1/8fbd0579dc68aba6186935cc1bee21d2f3e7ec1c/jimfs-1.1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.guava/guava/28.1-jre/b0e91dcb6a44ffb6221b5027e12a5cb34b841145/guava-28.1-jre.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/intellij-core/27.1.2/3835eb7c8665f794421da3c247125b90884ec0ea/intellij-core-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/kotlin-compiler/27.1.2/fe7a404e75b5c667d6dee3aad36c5a5fc714147d/kotlin-compiler-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.external.org-jetbrains/uast/27.1.2/a8c8014fb7ce4d8ceb793cc36afa51a68171744b/uast-27.1.2.jar;C:/Users/Pavel/.m2/repository/org/ow2/asm/asm-tree/7.0/asm-tree-7.0.jar;C:/Users/Pavel/.m2/repository/org/ow2/asm/asm/7.0/asm-7.0.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.72/86613e1a669a701b0c660bfd2af4f82a7ae11fca/kotlin-reflect-1.3.72.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.31/a58e0fb9812a6a93ca24b5da75e4b5a0cb89c957/kotlin-stdlib-1.4.31.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.build/builder-model/4.1.2/230168d0621c0207c486e932ccaf773b46f1374e/builder-model-4.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/4648af70268b6fdb24674fb1fd7c1fcc73db1231/bcpkix-jdk15on-1.56.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.56/a153c6f9744a3e9dd6feab5e210e1c9861362ec7/bcprov-jdk15on-1.56.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.build/aapt2-proto/4.1.0-alpha01-6193524/fadd481b02a88ce9b256c11533ef1270c0c847ec/aapt2-proto-4.1.0-alpha01-6193524.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/27.1.2/d3e34cee5cd028105870d5802d86b67dc58615e3/protos-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.10.0/410b61dd0088aab4caa05739558d43df248958c9/protobuf-java-3.10.0.jar;C:/Users/Pavel/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.trove4j/trove4j/20160824/33c3e174a9c8368d93761d3d12712db18e903959/trove4j-20160824.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:/Users/Pavel/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.8.1/eb2e8ab75598548cc8acf9a1ca227e480e01881e/checker-qual-2.8.1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.3.2/d1a0c5032570e0f64be6b4d9c90cdeb103129029/error_prone_annotations-2.3.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.18/f7aa683ea79dc6681ee9fb95756c999acbb62f5d/animal-sniffer-annotations-1.18.jar;C:/Users/Pavel/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.31/6dd50665802f54ba9bc3f70ecb20227d1bc81323/kotlin-stdlib-common-1.4.31.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.6/164343da11db817e81e24e0d9869527e069850c9/httpmime-4.5.6.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.6/1afe5621985efe90a92d0fbc9be86271efbe796f/httpclient-4.5.6.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.10/acc54d9b28bdffe4bbde89ed2e4a1e86b5285e2b/httpcore-4.4.10.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.android.tools/annotations/27.1.2/38fee9cdd1e800721224dfebd41141de8fb43afa/annotations-27.1.2.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.1/dd6dda9da676a54c5b36ca2806ff95ee017d8738/jaxb-runtime-2.3.1.jar;C:/Users/Pavel/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.1/a09d2c48d3285f206fafbffe0e50619284e92126/txw2-2.3.1.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.7/c197c86ceec7318b1284bffb49b54226ca774003/istack-commons-runtime-3.0.7.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jvnet.staxex/stax-ex/1.8/8cc35f73da321c29973191f2cf143d29d26a1df7/stax-ex-1.8.jar;C:/Users/Pavel/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.15/bb7b7ec0379982b97c62cd17465cb6d9155f68e8/FastInfoset-1.2.15.jar;C:/Users/Pavel/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar;C:/Users/Pavel/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar;C:/Users/Pavel/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="lint" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.4.31/183616b52cfb8ddaa8a2a15bf926e87dfcddcde3/kotlin-script-runtime-1.4.31.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.4.31/6c072554c2d163012478a93278b208c7228ad9a4/kotlin-scripting-common-1.4.31.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.4.31/90f94e43428b14e99123eea93411d2b8da9aa72c/kotlin-scripting-jvm-1.4.31.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.31/6dd50665802f54ba9bc3f70ecb20227d1bc81323/kotlin-stdlib-common-1.4.31.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.31/a58e0fb9812a6a93ca24b5da75e4b5a0cb89c957/kotlin-stdlib-1.4.31.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.8/f62be6d4cbf27781c2969867b4ed952f38378492/kotlinx-coroutines-core-1.3.8.jar" />
+              <option value="$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../internal/lint/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/../../../../internal/lint/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../internal/lint">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../internal/lint/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../internal/lint/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../internal/lint/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../internal/lint/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.lint:lint-api:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.lint:lint-model:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:manifest-merger:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:sdk-common:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.analytics-library:shared:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:sdklib:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:repository:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.31" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:builder-test-api:4.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.ddms:ddmlib:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.layoutlib:layoutlib-api:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:dvlib:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:common:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.jimfs:jimfs:1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava:28.1-jre" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.external.com-intellij:intellij-core:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.external.com-intellij:kotlin-compiler:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.external.org-jetbrains:uast:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.ow2.asm:asm-tree:7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.ow2.asm:asm:7.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.72" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.31" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:builder-model:4.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.56" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.56" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.build:aapt2-proto:4.1.0-alpha01-6193524" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools.analytics-library:protos:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.protobuf:protobuf-java:3.10.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.trove4j:trove4j:20160824" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: net.sf.kxml:kxml2:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.checkerframework:checker-qual:2.8.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.errorprone:error_prone_annotations:2.3.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.18" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.31" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.commons:commons-compress:1.12" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpmime:4.5.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpclient:4.5.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apache.httpcomponents:httpcore:4.4.10" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.android.tools:annotations:27.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.sun.activation:javax.activation:1.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.glassfish.jaxb:jaxb-runtime:2.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.xml.bind:jaxb-api:2.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.glassfish.jaxb:txw2:2.3.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.sun.istack:istack-commons-runtime:3.0.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jvnet.staxex:stax-ex:1.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.sun.xml.fastinfoset:FastInfoset:1.2.15" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.activation:javax.activation-api:1.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.tools.lint:lint-tests:27.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.tools.lint:lint:27.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.tools.lint:lint-checks:27.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.tools.analytics-library:tracker:27.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.tools:testutils:27.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-test-common:1.3.72" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.truth.extensions:truth-java8-extension:0.44" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.truth:truth:0.44" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.smali:dexlib2:2.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.smali:util:2.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.codehaus.groovy:groovy-all:2.4.15" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:3.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm-analysis:7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.easymock:easymock:3.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.9.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.9.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.objenesis:objenesis:2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: cglib:cglib-nodep:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.checkerframework:checker-compat-qual:2.5.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.googlecode.java-diff-utils:diffutils:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.auto.value:auto-value-annotations:1.6.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.beust:jcommander:1.64" level="project" />
+  </component>
+</module>
